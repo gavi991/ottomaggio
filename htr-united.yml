@@ -41,8 +41,8 @@ characters:
   - L
   - S
   - D
-  - ⁊
   - I
+  - ⁊
   - ꝑ
   - C
   - A
@@ -69,7 +69,6 @@ characters:
   - G
   - B
   - ꝓ
-  - "'"
   - ⟦
   - ⟧
   - ͦ
@@ -97,13 +96,13 @@ time:
 title: ottomaggio
 url: https://github.com/gavi991/ottomaggio
 volume:
-- count: 41897
+- count: 41901
   metric: characters
 - count: 41
   metric: files
-- count: 1997
+- count: 1998
   metric: lines
 - count: 400
   metric: pages
-- count: 209
+- count: 210
   metric: regions
