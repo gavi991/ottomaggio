@@ -11,101 +11,69 @@ automatically-aligned: true
 characters:
   members:
   - e
-  - i
-  - t
   - s
-  - a
-  - o
-  - l
-  - r
-  - n
+  - t
+  - i
   - u
-  - ̃
-  - m
+  - n
+  - r
+  - o
+  - a
+  - l
   - c
   - d
+  - m
   - p
-  - f
-  - ̾
-  - g
-  - z
-  - b
-  - ⁊
-  - h
-  - q
-  - Q
-  - ͥ
   - .
-  - S
-  - ꝯ
-  - ͣ
-  - L
-  - ꝑ
-  - D
+  - q
+  - '-'
+  - f
+  - h
+  - g
+  - ̃
+  - b
+  - z
+  - E
+  - y
+  - ¶
   - x
+  - ̾
+  - L
+  - S
+  - D
+  - ⁊
+  - I
+  - ꝑ
+  - C
   - A
   - M
-  - N
-  - I
-  - E
-  - C
-  - T
-  - ꝰ
-  - ᷑
-  - O
-  - P
-  - G
-  - U
-  - F
-  - ͦ
-  - B
-  - "'"
-  - 
-  - ͤ
-  - ł
-  - H
-  - y
-  - R
-  - ':'
-  - ᷤ
-  - '5'
-  - ẜ
-  - ħ
-  - '9'
-  - Ꝙ
-  - ͬ
-  - 
-  - ¶
-  - ͨ
-  - '1'
-  - Y
-  - '7'
-  - ꝓ
-  - /
-  - '-'
-  - k
-  - K
-  - w
-  - '6'
-  - X
-  - '&'
-  - ^
-  - ̈
-  - '3'
-  - ÷
-  - '2'
-  - '0'
-  - '4'
-  - ꝙ
-  - ⟦
-  - ꝗ
+  - Q
   - v
-  - ̌
-  - ','
-  - ̧
-  - ̇
-  - ́
-  - ͭ
+  - R
+  - O
+  - ꝰ
+  - ͥ
+  - ͣ
+  - N
+  - P
+  - T
+  - H
+  - ᷤ
+  - ͬ
+  - U
+  - ꝯ
+  - F
+  - ':'
+  - ;
+  - ͤ
+  - G
+  - B
+  - ꝓ
+  - "'"
+  - ⟦
+  - ⟧
+  - ͦ
+  - V
   mode: NFD
 description: Transcription
 format: Alto-XML
@@ -129,13 +97,13 @@ time:
 title: ottomaggio
 url: https://github.com/gavi991/ottomaggio
 volume:
-- count: 409276
+- count: 41896
   metric: characters
-- count: 147
+- count: 41
   metric: files
-- count: 20011
+- count: 1996
   metric: lines
 - count: 400
   metric: pages
-- count: 933
+- count: 215
   metric: regions
