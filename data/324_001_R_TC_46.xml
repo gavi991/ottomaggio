@@ -466,14 +466,6 @@
                     HEIGHT="206"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="403.0"
-                   VPOS="3335.0"
-                   WIDTH="780.0"
-                   HEIGHT="793.0"
-                   ID="eSc_textblock_afddb949"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="403 3335 403 4128 1170 4128 1183 3348"/></Shape>
-        </TextBlock>
         <TextBlock ID="eSc_dummyblock_">
           <TextLine ID="eSc_line_6c4790ed"
                     TAGREFS="LT8"
