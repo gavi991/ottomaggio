@@ -789,14 +789,6 @@
                    TAGREFS="BT10">
           <Shape><Polygon POINTS="314 928 314 1597 890 1597 890 928"/></Shape>
         </TextBlock>
-        <TextBlock HPOS="1"
-                   VPOS="2736"
-                   WIDTH="286"
-                   HEIGHT="183"
-                   ID="eSc_textblock_01c138d2"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="1 2919 1 2736 287 2736 287 2919"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
