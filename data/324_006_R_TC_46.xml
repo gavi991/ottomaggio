@@ -121,17 +121,18 @@
                     HEIGHT="260.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_20f38bba"
+                    TAGREFS="LT8"
                     BASELINE="812 2284 1955 2289" 
-                    HPOS="806.0"
-                    VPOS="2125.0"
-                    WIDTH="1142.0"
-                    HEIGHT="246.0">
+                    HPOS="806"
+                    VPOS="2125"
+                    WIDTH="1142"
+                    HEIGHT="246">
             <Shape><Polygon POINTS="806 2282 806 2371 1948 2371 1948 2282 1948 2125 806 2125 806 2282"/></Shape>
 	    <String CONTENT="uaut a nous hu-"
-                    HPOS="806.0"
-                    VPOS="2125.0"
-                    WIDTH="1142.0"
-                    HEIGHT="246.0"></String>
+                    HPOS="806"
+                    VPOS="2125"
+                    WIDTH="1142"
+                    HEIGHT="246"></String>
           </TextLine>
           <TextLine ID="eSc_line_605f9345"
                     TAGREFS="LT8"
@@ -534,18 +535,18 @@
                     HEIGHT="287.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_38414062"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="2338 3294 3965 3314" 
-                    HPOS="2331.0"
-                    VPOS="3130.0"
-                    WIDTH="1634.0"
-                    HEIGHT="253.0">
+                    HPOS="2331"
+                    VPOS="3130"
+                    WIDTH="1634"
+                    HEIGHT="253">
             <Shape><Polygon POINTS="2331 3355 2871 3335 2960 3369 3001 3383 3008 3383 3015 3383 3958 3369 3965 3314 3965 3150 2338 3130 2338 3294"/></Shape>
 	    <String CONTENT="grant uilte. .iii. chapitre."
-                    HPOS="2331.0"
-                    VPOS="3130.0"
-                    WIDTH="1634.0"
-                    HEIGHT="253.0"></String>
+                    HPOS="2331"
+                    VPOS="3130"
+                    WIDTH="1634"
+                    HEIGHT="253"></String>
           </TextLine>
           <TextLine ID="eSc_line_ecf7230c"
                     TAGREFS="LT8"
@@ -751,22 +752,6 @@
                     WIDTH="396.0"
                     HEIGHT="321.0"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="320.0"
-                   VPOS="1879.0"
-                   WIDTH="500.0"
-                   HEIGHT="484.0"
-                   ID="eSc_textblock_7a9a05cd"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="320 1879 320 2363 820 2363 820 1887"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="2305.0"
-                   VPOS="3298.0"
-                   WIDTH="509.0"
-                   HEIGHT="460.0"
-                   ID="eSc_textblock_9a87f920"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="2305 3298 2305 3758 2814 3758 2814 3298"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
