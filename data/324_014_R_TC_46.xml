@@ -778,14 +778,6 @@
                     HEIGHT="196"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="79"
-                   VPOS="4175"
-                   WIDTH="305"
-                   HEIGHT="330"
-                   ID="eSc_textblock_6bd60a3d"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="79 4175 79 4505 384 4505 384 4175"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
