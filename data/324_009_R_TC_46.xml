@@ -731,17 +731,18 @@
                     HEIGHT="279"></String>
           </TextLine>
           <TextLine ID="eSc_line_8a1ef667"
+                    TAGREFS="LT8"
                     BASELINE="3956 2664 4424 2664" 
-                    HPOS="3954.0"
-                    VPOS="2392.0"
-                    WIDTH="463.0"
-                    HEIGHT="361.0">
+                    HPOS="3954"
+                    VPOS="2392"
+                    WIDTH="463"
+                    HEIGHT="361">
             <Shape><Polygon POINTS="3954 2657 3954 2753 4417 2732 4417 2657 4411 2392 3954 2467 3954 2657"/></Shape>
 	    <String CONTENT="c.xxuii."
-                    HPOS="3954.0"
-                    VPOS="2392.0"
-                    WIDTH="463.0"
-                    HEIGHT="361.0"></String>
+                    HPOS="3954"
+                    VPOS="2392"
+                    WIDTH="463"
+                    HEIGHT="361"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2828.0"
