@@ -289,18 +289,18 @@
                     HEIGHT="295.0"></String>
           </TextLine>
           <TextLine ID="eSc_line_3a7a9590"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="411 4729 1975 4716" 
-                    HPOS="404.0"
-                    VPOS="4558.0"
-                    WIDTH="1571.0"
-                    HEIGHT="213.0">
+                    HPOS="404"
+                    VPOS="4558"
+                    WIDTH="1571"
+                    HEIGHT="213">
             <Shape><Polygon POINTS="411 4736 1968 4771 1975 4716 1954 4558 404 4565 411 4729"/></Shape>
 	    <String CONTENT="nosse te . Secont chapitre."
-                    HPOS="404.0"
-                    VPOS="4558.0"
-                    WIDTH="1571.0"
-                    HEIGHT="213.0"></String>
+                    HPOS="404"
+                    VPOS="4558"
+                    WIDTH="1571"
+                    HEIGHT="213"></String>
           </TextLine>
           <TextLine ID="eSc_line_5cc8ca26"
                     TAGREFS="LT8"
@@ -774,14 +774,6 @@
                     WIDTH="247.0"
                     HEIGHT="233.0"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="216.0"
-                   VPOS="4477.0"
-                   WIDTH="615.0"
-                   HEIGHT="715.0"
-                   ID="eSc_textblock_720e4cb5"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="263 4674 263 5192 831 5192 831 4674 461 4674 453 4477 216 4479"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
