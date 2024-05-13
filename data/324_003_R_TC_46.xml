@@ -21,28 +21,6 @@
                   VPOS="0"
                   WIDTH="5374"
                   HEIGHT="8202">
-        <TextBlock HPOS="1879.0"
-                   VPOS="377.0"
-                   WIDTH="689.0"
-                   HEIGHT="247.0"
-                   ID="eSc_textblock_b58a29a5"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1879 377 1879 624 2290 619 2568 615 2568 377"/></Shape>
-          <TextLine ID="eSc_line_a994041d"
-                    TAGREFS="LT8"
-                    BASELINE="1879 575 2557 580" 
-                    HPOS="1873.0"
-                    VPOS="375.0"
-                    WIDTH="677.0"
-                    HEIGHT="315.0">
-            <Shape><Polygon POINTS="1941 382 1914 375 1873 375 1873 574 1873 628 2057 683 2064 683 2071 690 2256 690 2256 683 2263 683 2351 635 2440 683 2447 683 2454 683 2461 683 2550 628 2550 574 2550 410 2003 382 1941 382"/></Shape>
-	    <String CONTENT="De ce liure"
-                    HPOS="1873.0"
-                    VPOS="375.0"
-                    WIDTH="677.0"
-                    HEIGHT="315.0"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="256.0"
                    VPOS="1058.0"
                    WIDTH="1771.0"
@@ -385,6 +363,28 @@
                     VPOS="5707.0"
                     WIDTH="1675.0"
                     HEIGHT="335.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="1879.0"
+                   VPOS="377.0"
+                   WIDTH="689.0"
+                   HEIGHT="247.0"
+                   ID="eSc_textblock_b58a29a5"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1879 377 1879 624 2290 619 2568 615 2568 377"/></Shape>
+          <TextLine ID="eSc_line_a994041d"
+                    TAGREFS="LT8"
+                    BASELINE="1879 575 2557 580" 
+                    HPOS="1873.0"
+                    VPOS="375.0"
+                    WIDTH="677.0"
+                    HEIGHT="315.0">
+            <Shape><Polygon POINTS="1941 382 1914 375 1873 375 1873 574 1873 628 2057 683 2064 683 2071 690 2256 690 2256 683 2263 683 2351 635 2440 683 2447 683 2454 683 2461 683 2550 628 2550 574 2550 410 2003 382 1941 382"/></Shape>
+	    <String CONTENT="De ce liure"
+                    HPOS="1873.0"
+                    VPOS="375.0"
+                    WIDTH="677.0"
+                    HEIGHT="315.0"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="2281.0"
