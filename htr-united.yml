@@ -100,9 +100,9 @@ volume:
   metric: characters
 - count: 41
   metric: files
-- count: 1997
+- count: 1996
   metric: lines
 - count: 400
   metric: pages
-- count: 199
+- count: 198
   metric: regions
