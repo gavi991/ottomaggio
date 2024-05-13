@@ -753,14 +753,6 @@
                     HEIGHT="274"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="293.0"
-                   VPOS="280.0"
-                   WIDTH="55.0"
-                   HEIGHT="10.0"
-                   ID="eSc_textblock_cf2b3592"
-                   >
-          <Shape><Polygon POINTS="293 280 293 290 348 290 348 280"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
