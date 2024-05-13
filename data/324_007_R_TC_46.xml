@@ -21,28 +21,6 @@
                   VPOS="0"
                   WIDTH="5422"
                   HEIGHT="8202">
-        <TextBlock HPOS="1850.0"
-                   VPOS="321.0"
-                   WIDTH="1208.0"
-                   HEIGHT="238.0"
-                   ID="eSc_textblock_cbd70e71"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="1850 321 1850 559 3058 559 3058 321"/></Shape>
-          <TextLine ID="eSc_line_20d6f20a"
-                    TAGREFS="LT8"
-                    BASELINE="1873 526 3056 526" 
-                    HPOS="1873.0"
-                    VPOS="341.0"
-                    WIDTH="1183.0"
-                    HEIGHT="369.0">
-            <Shape><Polygon POINTS="3035 348 2981 341 2133 362 2078 369 2010 369 1941 375 1873 410 1873 526 1873 710 2639 710 2639 704 2646 704 2652 704 2748 642 2789 621 3056 621 3056 526 3049 348 3035 348"/></Shape>
-	    <String CONTENT="natiuite humaĩne"
-                    HPOS="1873.0"
-                    VPOS="341.0"
-                    WIDTH="1183.0"
-                    HEIGHT="369.0"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="312.0"
                    VPOS="1628.0"
                    WIDTH="1743.0"
@@ -345,6 +323,28 @@
                     HEIGHT="341.0"></String>
           </TextLine>
         </TextBlock>
+        <TextBlock HPOS="1850.0"
+                   VPOS="321.0"
+                   WIDTH="1208.0"
+                   HEIGHT="238.0"
+                   ID="eSc_textblock_cbd70e71"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="1850 321 1850 559 3058 559 3058 321"/></Shape>
+          <TextLine ID="eSc_line_20d6f20a"
+                    TAGREFS="LT8"
+                    BASELINE="1873 526 3056 526" 
+                    HPOS="1873.0"
+                    VPOS="341.0"
+                    WIDTH="1183.0"
+                    HEIGHT="369.0">
+            <Shape><Polygon POINTS="3035 348 2981 341 2133 362 2078 369 2010 369 1941 375 1873 410 1873 526 1873 710 2639 710 2639 704 2646 704 2652 704 2748 642 2789 621 3056 621 3056 526 3049 348 3035 348"/></Shape>
+	    <String CONTENT="natiuite humaĩne"
+                    HPOS="1873.0"
+                    VPOS="341.0"
+                    WIDTH="1183.0"
+                    HEIGHT="369.0"></String>
+          </TextLine>
+        </TextBlock>
         <TextBlock HPOS="2335.0"
                    VPOS="1028.0"
                    WIDTH="1718.0"
@@ -590,6 +590,20 @@
                     WIDTH="1532.0"
                     HEIGHT="246.0"></String>
           </TextLine>
+          <TextLine ID="eSc_line_a2779834"
+                    TAGREFS="LT8"
+                    BASELINE="4052 4704 4341 4702" 
+                    HPOS="4040.0"
+                    VPOS="4531.0"
+                    WIDTH="294.0"
+                    HEIGHT="226.0">
+            <Shape><Polygon POINTS="4047 4702 4047 4757 4328 4757 4334 4695 4314 4531 4040 4531 4047 4702"/></Shape>
+	    <String CONTENT=".c.i."
+                    HPOS="4040.0"
+                    VPOS="4531.0"
+                    WIDTH="294.0"
+                    HEIGHT="226.0"></String>
+          </TextLine>
           <TextLine ID="eSc_line_578ec731"
                     TAGREFS="LT8"
                     BASELINE="2346 4716 3987 4704" 
@@ -687,20 +701,6 @@
                     VPOS="5714.0"
                     WIDTH="1580.0"
                     HEIGHT="369.0"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_a2779834"
-                    TAGREFS="LT8"
-                    BASELINE="4052 4704 4341 4702" 
-                    HPOS="4040.0"
-                    VPOS="4531.0"
-                    WIDTH="294.0"
-                    HEIGHT="226.0">
-            <Shape><Polygon POINTS="4047 4702 4047 4757 4328 4757 4334 4695 4314 4531 4040 4531 4047 4702"/></Shape>
-	    <String CONTENT=".c.i."
-                    HPOS="4040.0"
-                    VPOS="4531.0"
-                    WIDTH="294.0"
-                    HEIGHT="226.0"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="3338.0"
