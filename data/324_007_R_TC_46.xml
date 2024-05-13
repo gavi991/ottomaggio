@@ -725,10 +725,10 @@
                     HEIGHT="349.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="4061.0"
-                   VPOS="4555.0"
-                   WIDTH="305.0"
-                   HEIGHT="213.0"
+        <TextBlock HPOS="4061"
+                   VPOS="4555"
+                   WIDTH="305"
+                   HEIGHT="213"
                    ID="eSc_textblock_81ca5e2f"
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="4061 4555 4061 4768 4366 4760 4366 4555"/></Shape>
