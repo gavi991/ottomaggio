@@ -789,12 +789,12 @@
                     HEIGHT="300.0"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="3948.0"
-                   VPOS="2485.0"
-                   WIDTH="474.0"
-                   HEIGHT="228.0"
+        <TextBlock HPOS="3948"
+                   VPOS="2485"
+                   WIDTH="474"
+                   HEIGHT="228"
                    ID="eSc_textblock_2a13d2bc"
-                   TAGREFS="BT13">
+                   TAGREFS="BT15">
           <Shape><Polygon POINTS="3948 2485 3948 2713 4422 2713 4422 2485"/></Shape>
         </TextBlock>
       </PrintSpace>
