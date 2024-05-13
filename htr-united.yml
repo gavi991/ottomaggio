@@ -96,13 +96,13 @@ time:
 title: ottomaggio
 url: https://github.com/gavi991/ottomaggio
 volume:
-- count: 41901
+- count: 41896
   metric: characters
 - count: 41
   metric: files
-- count: 1998
+- count: 1997
   metric: lines
 - count: 400
   metric: pages
-- count: 202
+- count: 201
   metric: regions
