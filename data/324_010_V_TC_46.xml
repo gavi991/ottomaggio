@@ -21,28 +21,6 @@
                   VPOS="0"
                   WIDTH="5179"
                   HEIGHT="8200">
-        <TextBlock HPOS="2885.0"
-                   VPOS="361.0"
-                   WIDTH="630.0"
-                   HEIGHT="295.0"
-                   ID="eSc_textblock_b820efc8"
-                   TAGREFS="BT18">
-          <Shape><Polygon POINTS="2885 361 2885 656 3515 656 3515 361"/></Shape>
-          <TextLine ID="eSc_line_5a4ea98a"
-                    TAGREFS="LT8"
-                    BASELINE="2873 553 3500 576" 
-                    HPOS="2859"
-                    VPOS="362"
-                    WIDTH="636"
-                    HEIGHT="300">
-            <Shape><Polygon POINTS="3454 362 3413 382 3352 362 3352 362 3283 362 3215 362 3147 362 3078 362 3010 362 2941 362 2873 362 2866 546 2859 662 3489 662 3495 574 3482 362 3454 362"/></Shape>
-	    <String CONTENT="Lassaut"
-                    HPOS="2859"
-                    VPOS="362"
-                    WIDTH="636"
-                    HEIGHT="300"></String>
-          </TextLine>
-        </TextBlock>
         <TextBlock HPOS="1442.0"
                    VPOS="1049.0"
                    WIDTH="1680.0"
@@ -385,6 +363,28 @@
                     VPOS="5678.0"
                     WIDTH="1518.0"
                     HEIGHT="349.0"></String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="2885.0"
+                   VPOS="361.0"
+                   WIDTH="630.0"
+                   HEIGHT="295.0"
+                   ID="eSc_textblock_b820efc8"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="2885 361 2885 656 3515 656 3515 361"/></Shape>
+          <TextLine ID="eSc_line_5a4ea98a"
+                    TAGREFS="LT8"
+                    BASELINE="2873 553 3500 576" 
+                    HPOS="2859"
+                    VPOS="362"
+                    WIDTH="636"
+                    HEIGHT="300">
+            <Shape><Polygon POINTS="3454 362 3413 382 3352 362 3352 362 3283 362 3215 362 3147 362 3078 362 3010 362 2941 362 2873 362 2866 546 2859 662 3489 662 3495 574 3482 362 3454 362"/></Shape>
+	    <String CONTENT="Lassaut"
+                    HPOS="2859"
+                    VPOS="362"
+                    WIDTH="636"
+                    HEIGHT="300"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="3401.0"
@@ -730,22 +730,6 @@
                     WIDTH="1540"
                     HEIGHT="260"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="5072.0"
-                   VPOS="2081.0"
-                   WIDTH="99.0"
-                   HEIGHT="238.0"
-                   ID="eSc_textblock_d72b2c6f"
-                   TAGREFS="BT13">
-          <Shape><Polygon POINTS="5072 2081 5072 2319 5171 2319 5171 2081"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="1401.0"
-                   VPOS="4048.0"
-                   WIDTH="549.0"
-                   HEIGHT="484.0"
-                   ID="eSc_textblock_242614ee"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="1401 4048 1401 4294 1401 4532 1950 4532 1950 4048"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
